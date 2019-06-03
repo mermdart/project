@@ -41,3 +41,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+![alt-text](vsepesniconcordancepatsani.png)
+![alt-text](vsepesniconcordancepatsan.png)
+![alt-text](patsanngram.png)
+![alt-text](temnotankrya.png)
+![alt-text](temnotankrya2.png)
+![alt-text](slovopatsanawordlist.png)
+![alt-text](bratishkangram.png)
+![alt-text](bratishkankrya.png)
+![alt-text](pyaniidozhdnkrya.png)
+![alt-text](motilekwordlist.png)
+
+
