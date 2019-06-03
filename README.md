@@ -12,7 +12,13 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# Использованные для исследование инструменты
+
+1. _antconc_: какие слова повторяются в выборке, конкордансы (сочетания) этих слов
+2. _google ngrams_: периоды частотного употребления этих слов/сочетаний
+3. _национальный корпус русского языка_: разные подкорпусы (какому типу речи более свойственны эти сочетания)
+4. _github pages_ 
+
 
 # Header 1
 ## Header 2
