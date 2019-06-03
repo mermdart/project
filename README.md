@@ -1,8 +1,8 @@
-## Интертекстуальный анализ текстов песен Макса Коржа
+## Статистическо-интертекстуальный анализ текстов песен Макса Коржа
 
-You can use the [editor on GitHub](https://github.com/mermdart/project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Структура исследования:** 
+1. antconc (какие слова повторяются в выборке, конкордансы (сочетания) этих слов) -> google ngrams (периоды частотного употребления этих слов/сочетаний) -> нкря разные подкорпусы (какому типу речи более свойственны эти сочетания) -> сайт на гитхабе 
+ 
 
 ### Markdown
 
