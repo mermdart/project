@@ -9,14 +9,12 @@
 
 ### Использованные для исследования инструменты
 
-```markdown
-
 1. `antconc`: какие слова повторяются в выборке, конкордансы (сочетания) этих слов
 2. `google ngrams`: периоды частотного употребления этих слов/сочетаний
 3. `национальный корпус русского языка`: разные подкорпусы (какому типу речи более свойственны эти сочетания)
 4. `github pages`: создание сайта и репозитория с readme
 
-
+```markdown
 # Header 1
 ## Header 2
 ### Header 3
@@ -42,15 +40,30 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+**1. concordance слова "пацаны" во всех песнях**
 ![alt-text](vsepesniconcordancepatsani.png)
+
+**2. concordance слова "пацан" во всех песнях**
 ![alt-text](vsepesniconcordancepatsan.png)
+
+**3. слово "пацан" в google n-grams**
 ![alt-text](patsanngram.png)
+
+**4. сочетание слов "темнота" и "ожидание" в НКРЯ**
 ![alt-text](temnotankrya.png)
 ![alt-text](temnotankrya2.png)
+
+**5. все частотные слова в тексте песни "слово пацана"**
 ![alt-text](slovopatsanawordlist.png)
 ![alt-text](bratishkangram.png)
+
+**6. слово "братишка" в НКРЯ**
 ![alt-text](bratishkankrya.png)
+
+**7. сочетание слов "пьяный" и "дождь" в НКРЯ**
 ![alt-text](pyaniidozhdnkrya.png)
+
+**8. все частотные слова в тексте песни "мотылек"**
 ![alt-text](motilekwordlist.png)
 
 
