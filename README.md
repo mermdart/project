@@ -32,9 +32,12 @@
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Функции в команде
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mermdart/project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- _Ермолина Дарья_: осуществление выборки песен, обработка в материала в антконке
+- _Данилова Галина_: работа с сайтом, структурирование материала
+- _Морозова Анна_: анализ google ngrams и НКРЯ
+- _Фомичева Виктория_: осуществления обработки материала в google ngrams и структурирование
 
 ### Support or Contact
 
