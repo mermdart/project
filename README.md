@@ -55,6 +55,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 **5. все частотные слова в тексте песни "слово пацана"**
 ![alt-text](slovopatsanawordlist.png)
+
+**6. слово "братишка" в google n-grams**
 ![alt-text](bratishkangram.png)
 
 **6. слово "братишка" в НКРЯ**
