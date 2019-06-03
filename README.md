@@ -16,23 +16,6 @@
 3. `национальный корпус русского языка`: разные подкорпусы (какому типу речи более свойственны эти сочетания)
 4. `github pages`: создание сайта и репозитория с readme
 
-```markdown
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Функции в команде
 
@@ -40,10 +23,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - _Данилова Галина_: работа с сайтом, структурирование материала
 - _Морозова Анна_: анализ google ngrams и НКРЯ
 - _Фомичева Виктория_: осуществления обработки материала в google ngrams, формулировка темы и задачи исследования
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 **1. concordance слова "пацаны" во всех песнях**
 ![alt-text](vsepesniconcordancepatsani.png)
@@ -73,4 +52,25 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 **8. все частотные слова в тексте песни "мотылек"**
 ![alt-text](motilekwordlist.png)
 
+```markdown
+# Header 1
+## Header 2
+### Header 3
 
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
