@@ -60,4 +60,4 @@
 ![alt-text](motilekwordlist.png)
 
 ### спасибо за внимание!!
-![alt-text](maks.jpg)
+![alt-text](korzh.jpg)
