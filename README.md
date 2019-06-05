@@ -37,6 +37,9 @@
 **3. слово "пацан" в НКРЯ**
 ![alt-text](patsannkrya.jpg)
 
+**4. слово «пацан» в газетном корпусе**
+![alt-text](patsangazeta.jpg)
+
 **4. concordance слова "пацаны" во всех песнях**
 ![alt-text](vsepesniconcordancepatsani.png)
 
